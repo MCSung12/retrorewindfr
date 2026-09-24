@@ -1,6 +1,6 @@
 # RÉGLAGES DU SITE  →  nom: valeur   (une ligne par réglage)
 
-adresse_du_site: https://retrorewindfr.com
+adresse_du_site: https://mcsung12.github.io/retrorewindfr
 lien_discord: https://discord.gg/VTcmmgVbuT
 
 # Phrase d'accueil sous le grand titre
