@@ -1,0 +1,59 @@
+name: Mise à jour du site
+
+on:
+  # à chaque modification des fichiers (par exemple quand tu ajoutes un joueur)
+  push:
+    branches: [main]
+  # toutes les heures, pour les VR et les Mii
+  schedule:
+    - cron: '23 * * * *'
+  # bouton « Run workflow » dans l'onglet Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Stats Retro WFC (VR, top monde, Mii)
+        run: python3 outils/sync.py
+        continue-on-error: true
+
+      - name: Enregistrer les nouvelles stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add donnees/stats.json donnees/mii
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Stats Retro WFC"
+            git push || (git pull --rebase && git push) || echo "Stats non enregistrées cette fois, ce sera pour la prochaine heure."
+          fi
+
+      - name: Construire le site
+        run: python3 outils/build.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

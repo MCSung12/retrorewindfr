@@ -1,0 +1,2988 @@
+{
+"at":"2026-09-24T00:11:42Z",
+"tracks":[
+[
+256,
+"R",
+3,
+[
+"SNES Mario Circuit 1"
+]
+],
+[
+257,
+"R",
+3,
+[
+"SNES Donut Plains 1",
+"Beta Donut Plains 1"
+]
+],
+[
+258,
+"R",
+3,
+[
+"SNES Ghost Valley 1"
+]
+],
+[
+259,
+"R",
+3,
+[
+"SNES Bowser Castle 1"
+]
+],
+[
+260,
+"R",
+3,
+[
+"SNES Mario Circuit 2"
+]
+],
+[
+261,
+"R",
+3,
+[
+"SNES Choco Island 1",
+"SNES Choco Island 1 DX"
+]
+],
+[
+262,
+"R",
+3,
+[
+"SNES Ghost Valley 2"
+]
+],
+[
+263,
+"R",
+3,
+[
+"SNES Donut Plains 2",
+"Beta Donut Plains 2"
+]
+],
+[
+264,
+"R",
+3,
+[
+"SNES Bowser Castle 2"
+]
+],
+[
+265,
+"R",
+3,
+[
+"SNES Mario Circuit 3"
+]
+],
+[
+266,
+"R",
+3,
+[
+"SNES Koopa Beach 1"
+]
+],
+[
+267,
+"R",
+3,
+[
+"SNES Choco Island 2",
+"SNES Choco Island 2 DX"
+]
+],
+[
+268,
+"R",
+3,
+[
+"SNES Vanilla Lake 1"
+]
+],
+[
+269,
+"R",
+3,
+[
+"SNES Bowser Castle 3",
+"Tour Bowser Castle 3"
+]
+],
+[
+270,
+"R",
+3,
+[
+"SNES Mario Circuit 4"
+]
+],
+[
+271,
+"R",
+3,
+[
+"SNES Donut Plains 3"
+]
+],
+[
+272,
+"R",
+3,
+[
+"SNES Koopa Beach 2"
+]
+],
+[
+273,
+"R",
+3,
+[
+"SNES Ghost Valley 3"
+]
+],
+[
+274,
+"R",
+3,
+[
+"SNES Vanilla Lake 2"
+]
+],
+[
+275,
+"R",
+3,
+[
+"SNES Rainbow Road",
+"SNES Rainbow Road U"
+]
+],
+[
+276,
+"R",
+3,
+[
+"N64 Luigi Raceway"
+]
+],
+[
+277,
+"R",
+3,
+[
+"N64 Moo Moo Farm"
+]
+],
+[
+278,
+"R",
+3,
+[
+"N64 Koopa Troopa Beach"
+]
+],
+[
+279,
+"R",
+3,
+[
+"N64 Kalimari Desert",
+"SW Kalimari Desert"
+]
+],
+[
+280,
+"R",
+3,
+[
+"N64 Toad's Turnpike"
+]
+],
+[
+281,
+"R",
+3,
+[
+"N64 Frappe Snowland"
+]
+],
+[
+282,
+"R",
+3,
+[
+"N64 Choco Mountain",
+"Tour Choco Mountain"
+]
+],
+[
+283,
+"R",
+3,
+[
+"N64 Mario Raceway"
+]
+],
+[
+284,
+"R",
+3,
+[
+"N64 Wario Stadium"
+]
+],
+[
+285,
+"R",
+3,
+[
+"N64 Sherbet Land"
+]
+],
+[
+286,
+"R",
+3,
+[
+"N64 Royal Raceway",
+"Wii U Royal Raceway"
+]
+],
+[
+287,
+"R",
+3,
+[
+"N64 Bowser's Castle"
+]
+],
+[
+288,
+"R",
+3,
+[
+"N64 DK's Jungle Parkway"
+]
+],
+[
+289,
+"R",
+3,
+[
+"N64 Yoshi Valley"
+]
+],
+[
+290,
+"R",
+3,
+[
+"N64 Banshee Boardwalk"
+]
+],
+[
+291,
+"R",
+3,
+[
+"N64 Rainbow Road"
+]
+],
+[
+292,
+"R",
+3,
+[
+"GBA Peach Circuit",
+"Tour Peach Circuit"
+]
+],
+[
+293,
+"R",
+3,
+[
+"GBA Shy Guy Beach"
+]
+],
+[
+294,
+"R",
+3,
+[
+"GBA Riverside Park",
+"Tour Riverside Park"
+]
+],
+[
+295,
+"R",
+3,
+[
+"GBA Bowser Castle 1"
+]
+],
+[
+296,
+"R",
+3,
+[
+"GBA Mario Circuit",
+"GBA Mario Circuit U"
+]
+],
+[
+297,
+"R",
+3,
+[
+"GBA Boo Lake",
+"Tour Boo Lake"
+]
+],
+[
+298,
+"R",
+3,
+[
+"GBA Cheese Land",
+"Wii U Cheese Land"
+]
+],
+[
+299,
+"R",
+3,
+[
+"GBA Bowser Castle 2"
+]
+],
+[
+300,
+"R",
+3,
+[
+"GBA Luigi Circuit",
+"Tour Luigi Circuit"
+]
+],
+[
+301,
+"R",
+3,
+[
+"GBA Sky Garden",
+"Tour Sky Garden"
+]
+],
+[
+302,
+"R",
+3,
+[
+"GBA Cheep-Cheep Island",
+"Tour Cheep-Cheep Island"
+]
+],
+[
+303,
+"R",
+3,
+[
+"GBA Sunset Wilds",
+"Tour Sunset Wilds"
+]
+],
+[
+304,
+"R",
+3,
+[
+"GBA Snow Land",
+"Tour Snow Land"
+]
+],
+[
+305,
+"R",
+3,
+[
+"GBA Ribbon Road",
+"Wii U Ribbon Road"
+]
+],
+[
+306,
+"R",
+3,
+[
+"GBA Yoshi Desert"
+]
+],
+[
+307,
+"R",
+3,
+[
+"GBA Bowser Castle 3"
+]
+],
+[
+308,
+"R",
+3,
+[
+"GBA Lakeside Park",
+"Tour Lakeside Park"
+]
+],
+[
+309,
+"R",
+3,
+[
+"GBA Broken Pier"
+]
+],
+[
+310,
+"R",
+3,
+[
+"GBA Bowser Castle 4"
+]
+],
+[
+311,
+"R",
+3,
+[
+"GBA Rainbow Road",
+"GBA Rainbow Road DX"
+]
+],
+[
+312,
+"R",
+3,
+[
+"GCN Luigi Circuit"
+]
+],
+[
+313,
+"R",
+3,
+[
+"GCN Peach Beach",
+"SW2 Peach Beach"
+]
+],
+[
+314,
+"R",
+3,
+[
+"GCN Baby Park",
+"Wii U Baby Park"
+]
+],
+[
+315,
+"R",
+3,
+[
+"GCN Dry Dry Desert",
+"Wii U Dry Dry Desert"
+]
+],
+[
+316,
+"R",
+3,
+[
+"GCN Mushroom Bridge"
+]
+],
+[
+317,
+"R",
+3,
+[
+"GCN Mario Circuit"
+]
+],
+[
+318,
+"R",
+3,
+[
+"GCN Daisy Cruiser"
+]
+],
+[
+319,
+"R",
+3,
+[
+"GCN Waluigi Stadium"
+]
+],
+[
+320,
+"R",
+3,
+[
+"GCN Sherbet Land",
+"Wii U Sherbet Land"
+]
+],
+[
+321,
+"R",
+3,
+[
+"GCN Mushroom City"
+]
+],
+[
+322,
+"R",
+3,
+[
+"GCN Yoshi Circuit"
+]
+],
+[
+323,
+"R",
+3,
+[
+"GCN DK Mountain"
+]
+],
+[
+324,
+"R",
+3,
+[
+"GCN Wario Colosseum"
+]
+],
+[
+325,
+"R",
+3,
+[
+"GCN Dino Dino Jungle"
+]
+],
+[
+326,
+"R",
+3,
+[
+"GCN Bowser's Castle"
+]
+],
+[
+327,
+"R",
+3,
+[
+"GCN Rainbow Road"
+]
+],
+[
+328,
+"R",
+3,
+[
+"DS Figure 8 Circuit"
+]
+],
+[
+329,
+"R",
+3,
+[
+"DS Yoshi Falls"
+]
+],
+[
+330,
+"R",
+3,
+[
+"DS Cheep Cheep Beach",
+"Wii U Cheep Cheep Beach"
+]
+],
+[
+331,
+"R",
+3,
+[
+"DS Luigi's Mansion"
+]
+],
+[
+332,
+"R",
+3,
+[
+"DS Desert Hills"
+]
+],
+[
+333,
+"R",
+3,
+[
+"DS Delfino Square",
+"Beta Delfino Square"
+]
+],
+[
+334,
+"R",
+3,
+[
+"DS Waluigi Pinball",
+"Beta Waluigi Pinball"
+]
+],
+[
+335,
+"R",
+3,
+[
+"DS Shroom Ridge",
+"SW Shroom Ridge"
+]
+],
+[
+336,
+"R",
+3,
+[
+"DS DK Pass",
+"SW2 DK Pass"
+]
+],
+[
+337,
+"R",
+3,
+[
+"DS Tick-Tock Clock",
+"Wii U Tick-Tock Clock"
+]
+],
+[
+338,
+"R",
+3,
+[
+"DS Mario Circuit"
+]
+],
+[
+339,
+"R",
+3,
+[
+"DS Airship Fortress"
+]
+],
+[
+340,
+"R",
+3,
+[
+"DS Wario Stadium",
+"Wii U Wario Stadium"
+]
+],
+[
+341,
+"R",
+3,
+[
+"DS Peach Gardens",
+"SW Peach Gardens"
+]
+],
+[
+342,
+"R",
+3,
+[
+"DS Bowser Castle"
+]
+],
+[
+343,
+"R",
+3,
+[
+"DS Rainbow Road"
+]
+],
+[
+344,
+"R",
+3,
+[
+"Wii Luigi Circuit"
+]
+],
+[
+345,
+"R",
+3,
+[
+"Wii Moo Moo Meadows"
+]
+],
+[
+346,
+"R",
+3,
+[
+"Wii Mushroom Gorge"
+]
+],
+[
+347,
+"R",
+3,
+[
+"Wii Toad's Factory",
+"SW2 Toad's Factory"
+]
+],
+[
+348,
+"R",
+3,
+[
+"Wii Mario Circuit"
+]
+],
+[
+349,
+"R",
+3,
+[
+"Wii Coconut Mall"
+]
+],
+[
+350,
+"R",
+3,
+[
+"Wii DK Summit",
+"Tour DK Summit"
+]
+],
+[
+351,
+"R",
+3,
+[
+"Wii Wario's Gold Mine"
+]
+],
+[
+352,
+"R",
+3,
+[
+"Wii Daisy Circuit"
+]
+],
+[
+353,
+"R",
+3,
+[
+"Wii Koopa Cape"
+]
+],
+[
+354,
+"R",
+3,
+[
+"Wii Maple Treeway"
+]
+],
+[
+355,
+"R",
+3,
+[
+"Wii Grumble Volcano"
+]
+],
+[
+356,
+"R",
+3,
+[
+"Wii Dry Dry Ruins"
+]
+],
+[
+357,
+"R",
+3,
+[
+"Wii Moonview Highway"
+]
+],
+[
+358,
+"R",
+3,
+[
+"Wii Bowser's Castle"
+]
+],
+[
+359,
+"R",
+3,
+[
+"Wii Rainbow Road"
+]
+],
+[
+360,
+"R",
+3,
+[
+"3DS Toad Circuit"
+]
+],
+[
+361,
+"R",
+3,
+[
+"3DS Daisy Hills"
+]
+],
+[
+362,
+"R",
+3,
+[
+"3DS Cheep Cheep Lagoon"
+]
+],
+[
+363,
+"R",
+3,
+[
+"3DS Shy Guy Bazaar"
+]
+],
+[
+364,
+"R",
+3,
+[
+"3DS Wuhu Loop"
+]
+],
+[
+365,
+"R",
+3,
+[
+"3DS Mario Circuit"
+]
+],
+[
+366,
+"R",
+3,
+[
+"3DS Music Park"
+]
+],
+[
+367,
+"R",
+3,
+[
+"3DS Rock Rock Mountain"
+]
+],
+[
+368,
+"R",
+3,
+[
+"3DS Piranha Plant Slide"
+]
+],
+[
+369,
+"R",
+3,
+[
+"3DS Wario's Shipyard"
+]
+],
+[
+370,
+"R",
+3,
+[
+"3DS Neo Bowser City"
+]
+],
+[
+371,
+"R",
+3,
+[
+"3DS Maka Wuhu"
+]
+],
+[
+372,
+"R",
+3,
+[
+"3DS DK Jungle"
+]
+],
+[
+373,
+"R",
+3,
+[
+"3DS Rosalina's Ice World"
+]
+],
+[
+374,
+"R",
+3,
+[
+"3DS Bowser's Castle"
+]
+],
+[
+375,
+"R",
+3,
+[
+"3DS Rainbow Road"
+]
+],
+[
+376,
+"R",
+3,
+[
+"Wii U Mario Kart Stadium"
+]
+],
+[
+377,
+"R",
+3,
+[
+"Wii U Sweet Sweet Canyon"
+]
+],
+[
+378,
+"R",
+3,
+[
+"Wii U Thwomp Ruins"
+]
+],
+[
+379,
+"R",
+3,
+[
+"Wii U Mario Circuit"
+]
+],
+[
+380,
+"R",
+3,
+[
+"Wii U Toad Harbor"
+]
+],
+[
+381,
+"R",
+3,
+[
+"Wii U Sunshine Airport"
+]
+],
+[
+382,
+"R",
+3,
+[
+"Wii U Electrodrome"
+]
+],
+[
+383,
+"R",
+3,
+[
+"Wii U Cloudtop Cruise"
+]
+],
+[
+384,
+"R",
+3,
+[
+"Wii U Bone-Dry Dunes"
+]
+],
+[
+385,
+"R",
+3,
+[
+"Wii U Rainbow Road"
+]
+],
+[
+386,
+"R",
+3,
+[
+"Wii U Mute City"
+]
+],
+[
+387,
+"R",
+3,
+[
+"Wii U Excitebike Arena"
+]
+],
+[
+388,
+"R",
+3,
+[
+"Wii U Hyrule Circuit"
+]
+],
+[
+389,
+"R",
+3,
+[
+"Wii U Wild Woods"
+]
+],
+[
+390,
+"R",
+3,
+[
+"Wii U Animal Crossing"
+]
+],
+[
+391,
+"R",
+3,
+[
+"Wii U Super Bell Subway"
+]
+],
+[
+392,
+"R",
+3,
+[
+"Wii U Big Blue"
+]
+],
+[
+393,
+"R",
+3,
+[
+"SW Sky-High Sundae",
+"SW2 Sky-High Sundae"
+]
+],
+[
+394,
+"R",
+3,
+[
+"Tour Vancouver Velocity"
+]
+],
+[
+395,
+"R",
+3,
+[
+"Tour Singapore Speedway"
+]
+],
+[
+396,
+"R",
+3,
+[
+"Tour Athens Dash"
+]
+],
+[
+397,
+"R",
+3,
+[
+"Tour Madrid Drive"
+]
+],
+[
+398,
+"R",
+3,
+[
+"RMX Mario Circuit 1"
+]
+],
+[
+399,
+"R",
+3,
+[
+"RMX Choco Island 1"
+]
+],
+[
+400,
+"R",
+3,
+[
+"RMX Choco Island 2"
+]
+],
+[
+401,
+"R",
+3,
+[
+"RMX Rainbow Road 1"
+]
+],
+[
+402,
+"R",
+3,
+[
+"RMX Rainbow Road 2"
+]
+],
+[
+403,
+"R",
+3,
+[
+"RMX Vanilla Lake 1"
+]
+],
+[
+404,
+"R",
+3,
+[
+"RMX Vanilla Lake 2"
+]
+],
+[
+405,
+"R",
+3,
+[
+"RMX Ghost Valley 1"
+]
+],
+[
+406,
+"R",
+3,
+[
+"RMX Bowser Castle 1"
+]
+],
+[
+407,
+"R",
+3,
+[
+"RMX Donut Plains 1"
+]
+],
+[
+408,
+"R",
+3,
+[
+"GP Bananan Ruins"
+]
+],
+[
+409,
+"R",
+4,
+[
+"GP Diamond City"
+]
+],
+[
+410,
+"R",
+3,
+[
+"GP Bowser's Castle"
+]
+],
+[
+411,
+"R",
+3,
+[
+"SW2 Mario Bros Circuit"
+]
+],
+[
+412,
+"R",
+3,
+[
+"SW2 Crown City"
+]
+],
+[
+413,
+"R",
+3,
+[
+"SW2 Whistlestop Summit"
+]
+],
+[
+414,
+"R",
+3,
+[
+"SW2 DK Spaceport"
+]
+],
+[
+415,
+"R",
+3,
+[
+"SW2 Faraway Oasis"
+]
+],
+[
+416,
+"R",
+3,
+[
+"SW2 Peach Resort"
+]
+],
+[
+417,
+"R",
+3,
+[
+"SW2 Great ? Block Ruins"
+]
+],
+[
+418,
+"R",
+3,
+[
+"SW2 Cheep Cheep Falls"
+]
+],
+[
+419,
+"R",
+3,
+[
+"SW2 Dandelion Depths"
+]
+],
+[
+420,
+"R",
+3,
+[
+"SW2 Boo Cinema"
+]
+],
+[
+421,
+"R",
+3,
+[
+"SW2 Ghost Valley"
+]
+],
+[
+422,
+"R",
+3,
+[
+"SW2 Bowser's Castle"
+]
+],
+[
+423,
+"R",
+3,
+[
+"SW2 Mario Circuit"
+]
+],
+[
+424,
+"R",
+3,
+[
+"SW2 Peach Stadium"
+]
+],
+[
+425,
+"R",
+3,
+[
+"SW2 Rainbow Road"
+]
+],
+[
+426,
+"R",
+3,
+[
+"Beta Choco Island 3"
+]
+],
+[
+427,
+"R",
+3,
+[
+"Beta Nokonoko Beach"
+]
+],
+[
+428,
+"C",
+3,
+[
+"Phendrana Frostbite"
+]
+],
+[
+429,
+"C",
+3,
+[
+"Honeymoon Lune"
+]
+],
+[
+430,
+"C",
+3,
+[
+"Poké Floats"
+]
+],
+[
+431,
+"C",
+3,
+[
+"DK Jungle Tour"
+]
+],
+[
+432,
+"C",
+3,
+[
+"Terra Ursae"
+]
+],
+[
+433,
+"C",
+3,
+[
+"Confectionery Cliffs"
+]
+],
+[
+434,
+"C",
+3,
+[
+"WP Tanks!"
+]
+],
+[
+435,
+"C",
+3,
+[
+"Cloud Mist Castle"
+]
+],
+[
+436,
+"C",
+3,
+[
+"Rooster Island"
+]
+],
+[
+437,
+"C",
+3,
+[
+"Jiyuu Village"
+]
+],
+[
+438,
+"C",
+3,
+[
+"Cargo Bay"
+]
+],
+[
+439,
+"C",
+3,
+[
+"Jigsaw Circuit"
+]
+],
+[
+440,
+"C",
+3,
+[
+"Cruel Angel's Thesis"
+]
+],
+[
+441,
+"C",
+3,
+[
+"Bowser's Termination Station"
+]
+],
+[
+442,
+"C",
+3,
+[
+"Stargaze Summit"
+]
+],
+[
+443,
+"C",
+3,
+[
+"Good Egg Drive"
+]
+],
+[
+444,
+"C",
+3,
+[
+"Starry Cityscape"
+]
+],
+[
+445,
+"C",
+3,
+[
+"Stickerbush Sunset"
+]
+],
+[
+446,
+"C",
+3,
+[
+"Alone and Incomplete"
+]
+],
+[
+447,
+"C",
+3,
+[
+"Gallant Grotto"
+]
+],
+[
+448,
+"C",
+3,
+[
+"Backside of the TV"
+]
+],
+[
+449,
+"C",
+3,
+[
+"Garden of Dreams"
+]
+],
+[
+450,
+"C",
+3,
+[
+"Overgrown Temple"
+]
+],
+[
+451,
+"C",
+3,
+[
+"Lava Lake"
+]
+],
+[
+452,
+"C",
+3,
+[
+"Timber Rapids"
+]
+],
+[
+453,
+"C",
+3,
+[
+"Musical Cliff"
+]
+],
+[
+454,
+"C",
+3,
+[
+"Luncheon Tour"
+]
+],
+[
+455,
+"C",
+3,
+[
+"Shy Guy Lumber Co."
+]
+],
+[
+456,
+"C",
+3,
+[
+"Kamek's Library"
+]
+],
+[
+457,
+"C",
+3,
+[
+"Wario Circuit"
+]
+],
+[
+458,
+"C",
+3,
+[
+"Sunrise Slopes"
+]
+],
+[
+459,
+"C",
+3,
+[
+"Banished Courtyard"
+]
+],
+[
+460,
+"C",
+3,
+[
+"Shadow Woods"
+]
+],
+[
+461,
+"C",
+3,
+[
+"Hells Dimension"
+]
+],
+[
+462,
+"C",
+3,
+[
+"Botania"
+]
+],
+[
+463,
+"C",
+3,
+[
+"Cascade Kingdom"
+]
+],
+[
+464,
+"C",
+3,
+[
+"Sandcastle Park"
+]
+],
+[
+465,
+"C",
+3,
+[
+"Emerald Coast"
+]
+],
+[
+466,
+"C",
+3,
+[
+"Super Bell Circuit"
+]
+],
+[
+467,
+"C",
+3,
+[
+"Midnight Museum"
+]
+],
+[
+468,
+"C",
+3,
+[
+"Crystal Canopy"
+]
+],
+[
+469,
+"C",
+3,
+[
+"Shy Guy Skies"
+]
+],
+[
+470,
+"C",
+3,
+[
+"Forgotten Facility"
+]
+],
+[
+471,
+"C",
+3,
+[
+"Kitayama Keep"
+]
+],
+[
+472,
+"C",
+3,
+[
+"Dolphin Harbor"
+]
+],
+[
+473,
+"C",
+3,
+[
+"Aqua Dungeon"
+]
+],
+[
+474,
+"C",
+3,
+[
+"Divine Paradise"
+]
+],
+[
+475,
+"C",
+3,
+[
+"Moonlit Grounds"
+]
+],
+[
+476,
+"C",
+3,
+[
+"Frigid Freezeway"
+]
+],
+[
+477,
+"C",
+3,
+[
+"Honeyhive Falls"
+]
+],
+[
+478,
+"C",
+3,
+[
+"Heavenly Sanctuary"
+]
+],
+[
+479,
+"C",
+3,
+[
+"Luigi's Island"
+]
+],
+[
+480,
+"C",
+3,
+[
+"Mystic Tangle"
+]
+],
+[
+481,
+"C",
+3,
+[
+"Maplewood Caverns"
+]
+],
+[
+482,
+"C",
+3,
+[
+"Fiery Factory, Fading Frost"
+]
+],
+[
+483,
+"C",
+3,
+[
+"Sunset Forest"
+]
+],
+[
+484,
+"C",
+3,
+[
+"Pandora Palace"
+]
+],
+[
+485,
+"C",
+3,
+[
+"Comet Starway"
+]
+],
+[
+486,
+"C",
+3,
+[
+"The Seamlands"
+]
+],
+[
+487,
+"C",
+3,
+[
+"Northern Heights"
+]
+],
+[
+488,
+"C",
+3,
+[
+"Thunder City"
+]
+],
+[
+489,
+"C",
+3,
+[
+"Propeller Paradise"
+]
+],
+[
+490,
+"C",
+3,
+[
+"µTorrent's Divinity"
+]
+],
+[
+491,
+"C",
+3,
+[
+"Ghostly Gulch"
+]
+],
+[
+492,
+"C",
+3,
+[
+"Cubing Conundrum"
+]
+],
+[
+493,
+"C",
+3,
+[
+"Daisy Gardens"
+]
+],
+[
+494,
+"C",
+3,
+[
+"Lunar Lights"
+]
+],
+[
+495,
+"C",
+3,
+[
+"Fruity Folly"
+]
+],
+[
+496,
+"C",
+3,
+[
+"Thunder Canyon"
+]
+],
+[
+497,
+"C",
+3,
+[
+"Fungal Jungle"
+]
+],
+[
+498,
+"C",
+3,
+[
+"Cherry Blossom Garden"
+]
+],
+[
+499,
+"C",
+3,
+[
+"Vile Isle"
+]
+],
+[
+500,
+"C",
+3,
+[
+"Blizzerno Fortress"
+]
+],
+[
+501,
+"C",
+3,
+[
+"Desert Fort"
+]
+],
+[
+502,
+"C",
+3,
+[
+"Mushlight's Reprise"
+]
+],
+[
+503,
+"C",
+3,
+[
+"Call of the Glassheart"
+]
+],
+[
+504,
+"C",
+3,
+[
+"Anthill & Apian Apts."
+]
+],
+[
+505,
+"C",
+3,
+[
+"Hot Air Skyway"
+]
+],
+[
+506,
+"C",
+3,
+[
+"Redwood Village"
+]
+],
+[
+507,
+"C",
+3,
+[
+"Bubblegum Skyline"
+]
+],
+[
+508,
+"C",
+3,
+[
+"Cool Shroom Castle"
+]
+],
+[
+509,
+"C",
+3,
+[
+"Stereo Madness"
+]
+],
+[
+510,
+"C",
+3,
+[
+"Neuron Jungle"
+]
+],
+[
+511,
+"C",
+3,
+[
+"Digital Refinery"
+]
+],
+[
+512,
+"C",
+3,
+[
+"Lunar Lantern Festival"
+]
+],
+[
+513,
+"C",
+3,
+[
+"Green Hill Zone"
+]
+],
+[
+514,
+"C",
+3,
+[
+"Honeybee Hideout"
+]
+],
+[
+515,
+"C",
+3,
+[
+"Welkin Cluster"
+]
+],
+[
+516,
+"C",
+3,
+[
+"Lantern Light Terrace"
+]
+],
+[
+517,
+"C",
+3,
+[
+"Dark Matter Fortress"
+]
+],
+[
+518,
+"C",
+3,
+[
+"Glistening Highway"
+]
+],
+[
+519,
+"C",
+3,
+[
+"Kinoko Cave"
+]
+],
+[
+520,
+"C",
+3,
+[
+"Icecream Sweetland"
+]
+],
+[
+521,
+"C",
+3,
+[
+"Toxic Mushroom Falls"
+]
+],
+[
+522,
+"C",
+3,
+[
+"Thump Bump Forest"
+]
+],
+[
+523,
+"C",
+3,
+[
+"Area 64"
+]
+],
+[
+524,
+"C",
+3,
+[
+"Bowser's Flooded Castle"
+]
+],
+[
+525,
+"C",
+3,
+[
+"Conkdor Ruins"
+]
+],
+[
+526,
+"C",
+3,
+[
+"Reactive Factory"
+]
+],
+[
+527,
+"C",
+3,
+[
+"Crash Cove"
+]
+],
+[
+528,
+"C",
+3,
+[
+"Infernal Pipeyard"
+]
+],
+[
+529,
+"C",
+3,
+[
+"HellValley"
+]
+],
+[
+530,
+"C",
+3,
+[
+"frutiger_course"
+]
+],
+[
+531,
+"C",
+3,
+[
+"Shy Guy Spelunking"
+]
+],
+[
+532,
+"C",
+3,
+[
+"Bullet Bill Bluff"
+]
+],
+[
+533,
+"C",
+3,
+[
+"Wario's Canyon Castle"
+]
+],
+[
+534,
+"C",
+3,
+[
+"Skyline Avenue"
+]
+],
+[
+535,
+"C",
+3,
+[
+"Toadette's Castle"
+]
+],
+[
+536,
+"C",
+3,
+[
+"Big Shell Bay"
+]
+],
+[
+537,
+"C",
+3,
+[
+"Dreamer"
+]
+],
+[
+538,
+"C",
+3,
+[
+"Magmatic Sanctuary"
+]
+],
+[
+539,
+"C",
+3,
+[
+"Jungle Fortress"
+]
+],
+[
+540,
+"C",
+3,
+[
+"Muncher Mesa"
+]
+],
+[
+541,
+"C",
+3,
+[
+"Fettuccine Falls"
+]
+],
+[
+542,
+"C",
+3,
+[
+"Frosty Village"
+]
+],
+[
+543,
+"C",
+3,
+[
+"Waluigi's Taco Stand"
+]
+],
+[
+544,
+"C",
+3,
+[
+"Promise of Annalise"
+]
+],
+[
+545,
+"C",
+3,
+[
+"Biometal Blitz"
+]
+],
+[
+546,
+"C",
+3,
+[
+"Elemental Solstice"
+]
+],
+[
+547,
+"C",
+3,
+[
+"Bridgey City"
+]
+],
+[
+548,
+"C",
+3,
+[
+"Waluigi Circuit"
+]
+],
+[
+549,
+"C",
+3,
+[
+"Reflective Ruins"
+]
+],
+[
+550,
+"C",
+3,
+[
+"The Frozen Lakes of Steleah"
+]
+],
+[
+551,
+"C",
+3,
+[
+"Hazy Lazy Desert"
+]
+],
+[
+552,
+"C",
+3,
+[
+"Dark Matter Shrine"
+]
+],
+[
+553,
+"C",
+3,
+[
+"The Dashlands"
+]
+],
+[
+554,
+"C",
+3,
+[
+"Desert Creek"
+]
+],
+[
+555,
+"C",
+3,
+[
+"Interstellar Laboratory"
+]
+],
+[
+556,
+"C",
+3,
+[
+"Cool Castle Canyon"
+]
+],
+[
+557,
+"C",
+3,
+[
+"Haunted Woods"
+]
+],
+[
+558,
+"C",
+3,
+[
+"Coral Isle"
+]
+],
+[
+559,
+"C",
+3,
+[
+"White Land"
+]
+]
+],
+"counts":{
+"311":20239,
+"421":18291,
+"364":13232,
+"350":12731,
+"422":12330,
+"325":10919,
+"372":10545,
+"382":10321,
+"334":10271,
+"346":9957,
+"308":9103,
+"349":9081,
+"333":9054,
+"342":9018,
+"413":8820,
+"307":8788,
+"383":8711,
+"423":8516,
+"359":8279,
+"358":8247,
+"337":8236,
+"417":8151,
+"425":8120,
+"347":7993,
+"339":7983,
+"327":7251,
+"322":6874,
+"356":6830,
+"415":6812,
+"289":6791,
+"370":6632,
+"371":6554,
+"419":6451,
+"287":6421,
+"314":6362,
+"344":6251,
+"420":6182,
+"366":6145,
+"355":6125,
+"354":6031,
+"305":6017,
+"360":6001,
+"388":5890,
+"412":5871,
+"310":5865,
+"301":5862,
+"375":5860,
+"326":5817,
+"390":5804,
+"336":5773,
+"392":5557,
+"406":5544,
+"324":5470,
+"343":5351,
+"386":5317,
+"353":5273,
+"286":5117,
+"323":4966,
+"357":4962,
+"393":4917,
+"331":4910,
+"374":4875,
+"256":4852,
+"335":4701,
+"328":4685,
+"361":4671,
+"368":4642,
+"376":4575,
+"316":4547,
+"385":4529,
+"380":4486,
+"416":4477,
+"318":4473,
+"387":4439,
+"312":4409,
+"345":4399,
+"283":4382,
+"373":4365,
+"378":4361,
+"319":4346,
+"309":4334,
+"275":4332,
+"304":4289,
+"340":4281,
+"290":4265,
+"424":4240,
+"284":4228,
+"321":4225,
+"269":4160,
+"351":4148,
+"291":4095,
+"363":4081,
+"369":4050,
+"341":4015,
+"264":3955,
+"352":3937,
+"348":3872,
+"300":3862,
+"276":3858,
+"299":3810,
+"397":3793,
+"367":3706,
+"414":3703,
+"384":3638,
+"298":3626,
+"280":3623,
+"262":3602,
+"277":3597,
+"365":3528,
+"399":3474,
+"338":3462,
+"408":3452,
+"395":3437,
+"418":3436,
+"320":3375,
+"389":3347,
+"292":3343,
+"391":3318,
+"329":3290,
+"404":3241,
+"410":3222,
+"402":3219,
+"279":3211,
+"288":3193,
+"282":3183,
+"294":3162,
+"278":3139,
+"281":3137,
+"403":3135,
+"405":3126,
+"260":3120,
+"297":3101,
+"381":3094,
+"401":3064,
+"265":3058,
+"330":3038,
+"332":3038,
+"303":3025,
+"306":3022,
+"267":3020,
+"427":2950,
+"285":2945,
+"259":2918,
+"274":2901,
+"379":2890,
+"270":2889,
+"398":2871,
+"362":2841,
+"302":2796,
+"296":2783,
+"315":2747,
+"317":2734,
+"273":2728,
+"268":2697,
+"258":2696,
+"257":2677,
+"313":2663,
+"407":2590,
+"266":2518,
+"295":2507,
+"263":2475,
+"272":2372,
+"271":2330,
+"394":2279,
+"261":2229,
+"293":2216,
+"396":1795,
+"426":1788,
+"400":1685,
+"377":1647,
+"409":1542,
+"411":1460,
+"448":972,
+"530":956,
+"513":927,
+"490":909,
+"440":899,
+"509":877,
+"492":867,
+"523":720,
+"434":691,
+"543":683,
+"537":657,
+"443":651,
+"446":613,
+"519":581,
+"465":559,
+"529":550,
+"441":550,
+"461":548,
+"544":543,
+"430":540,
+"552":522,
+"503":516,
+"526":514,
+"524":500,
+"456":497,
+"438":496,
+"517":494,
+"455":488,
+"532":464,
+"473":459,
+"510":456,
+"484":452,
+"504":451,
+"458":446,
+"527":445,
+"506":435,
+"436":421,
+"479":420,
+"439":419,
+"548":418,
+"472":415,
+"508":414,
+"488":409,
+"482":407,
+"454":407,
+"525":404,
+"511":403,
+"550":396,
+"466":394,
+"432":392,
+"449":391,
+"547":390,
+"459":384,
+"451":382,
+"444":380,
+"507":378,
+"467":378,
+"477":376,
+"471":375,
+"487":373,
+"514":371,
+"555":369,
+"505":368,
+"541":368,
+"512":365,
+"486":364,
+"551":363,
+"520":363,
+"501":362,
+"485":362,
+"521":361,
+"494":358,
+"553":357,
+"528":356,
+"457":355,
+"453":351,
+"447":350,
+"464":348,
+"462":346,
+"437":345,
+"522":342,
+"515":341,
+"493":338,
+"442":338,
+"499":337,
+"483":334,
+"549":333,
+"496":333,
+"498":333,
+"469":332,
+"445":331,
+"545":331,
+"470":330,
+"463":329,
+"495":327,
+"452":323,
+"516":322,
+"433":320,
+"478":317,
+"475":317,
+"518":317,
+"500":315,
+"460":315,
+"497":314,
+"489":309,
+"480":304,
+"540":302,
+"481":300,
+"502":299,
+"491":298,
+"535":295,
+"474":293,
+"476":292,
+"435":291,
+"531":284,
+"429":284,
+"450":280,
+"428":278,
+"468":277,
+"534":272,
+"536":271,
+"554":271,
+"546":263,
+"431":263,
+"538":243,
+"533":236,
+"539":232,
+"542":225,
+"559":221,
+"557":214,
+"556":185,
+"558":156
+},
+"global":{
+"races":945703,
+"players":74164,
+"since":"2026-03-25T22:22:30.429181Z",
+"chars":[
+[
+"Funky Kong",
+3227044
+],
+[
+"Daisy",
+716178
+],
+[
+"Rosalina",
+403799
+],
+[
+"Luigi",
+214946
+],
+[
+"King Boo",
+173829
+]
+],
+"vehs":[
+[
+"Flame Runner",
+4049338
+],
+[
+"Mach Bike",
+1290416
+],
+[
+"Wild Wing",
+196391
+],
+[
+"Bullet Bike",
+154373
+],
+[
+"Flame Flyer",
+117753
+]
+],
+"combos":[
+[
+"Funky Kong + Flame Runner",
+3160412,
+15.5
+],
+[
+"Daisy + Mach Bike",
+627515,
+13.6
+],
+[
+"Rosalina + Flame Runner",
+332890,
+13.7
+],
+[
+"Luigi + Mach Bike",
+143702,
+12.4
+],
+[
+"King Boo + Flame Runner",
+129032,
+12.3
+]
+],
+"hours":[
+51969,
+50063,
+50085,
+48319,
+43473,
+35365,
+26519,
+19533,
+16115,
+15884,
+17587,
+19047,
+21923,
+26011,
+30657,
+36004,
+41000,
+44627,
+48878,
+57592,
+62984,
+63866,
+62911,
+55292
+],
+"days":[
+[
+"Sunday",
+159590
+],
+[
+"Monday",
+137256
+],
+[
+"Tuesday",
+125764
+],
+[
+"Wednesday",
+121738
+],
+[
+"Thursday",
+126064
+],
+[
+"Friday",
+129031
+],
+[
+"Saturday",
+146261
+]
+]
+},
+"world":{
+"top":[
+[
+1,
+"s",
+161570,
+"bike",
+"507399127254"
+],
+[
+2,
+"",
+157111,
+"bike",
+"000100100100"
+],
+[
+3,
+"",
+156663,
+"bike",
+"000000017063"
+],
+[
+4,
+"any•",
+156490,
+"bike",
+"121112111116"
+],
+[
+5,
+"GBSアプリリア",
+152407,
+"bike",
+"541165967450"
+],
+[
+6,
+"MBDTF",
+150333,
+"bike",
+"121122123333"
+],
+[
+7,
+"no name",
+147108,
+"bike",
+"000600500000"
+],
+[
+8,
+"Coco Loco",
+141880,
+"bike",
+"468151520098"
+],
+[
+9,
+"TKS_Memer",
+141071,
+"bike",
+"128849119688"
+],
+[
+10,
+"f¢=>:(",
+141006,
+"bike",
+"280028002850"
+]
+],
+"total":113161,
+"at":"2026-09-24T00:11:42Z"
+}
+}

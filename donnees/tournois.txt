@@ -1,0 +1,11 @@
+# TOURNOIS SPÉCIAUX ET RÉSULTATS : une ligne par tournoi
+#   date | heure | nom | format (facultatif) | podium (facultatif : 1er, 2e, 3e)
+#
+# Tournoi à venir (sans podium) :
+#   2026-10-10 | 21:30 | Coupe d'automne | 150cc · 12 courses
+# Tournoi terminé (avec le podium, séparé par des virgules) :
+#   2026-09-20 | 21:30 | Tournoi du soir | 150cc · 12 courses | zozu, Yuri, Marmon
+#
+# Les tournois habituels du samedi et du dimanche n'ont pas besoin d'être ici
+# (ils se règlent dans reglages.txt). Les lignes qui commencent par # sont ignorées.
+

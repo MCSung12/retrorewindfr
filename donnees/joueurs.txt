@@ -1,0 +1,27 @@
+# CLASSEMENT FR : un code ami par ligne.
+# Pour ajouter un joueur, ajoute simplement son code ami sur une nouvelle ligne.
+# Tu peux mettre une petite note après une barre |   ex :  1234-5678-9012 | Francophone
+# Pseudo, VR, Top FR, Top monde et Mii se remplissent tout seuls (mise à jour toutes les heures).
+# Les lignes qui commencent par # sont ignorées.
+
+1546-1897-6757
+0171-8000-8082
+5325-7610-7246
+1423-3571-4085
+5368-7091-9017
+4595-6164-9710
+4515-7401-4959
+0773-0954-1834
+0429-4981-9707
+0773-0956-5431
+0816-0455-6112
+3822-5226-8304
+5153-9621-7801
+1675-0385-0223
+4466-7678-3466
+5284-2414-5290
+2061-5861-7787
+0650-2638-3962
+0435-5327-7950
+4337-9172-4802 | Francophone
+5282-8105-1468

@@ -1,0 +1,13 @@
+# CLASSEMENT TDS : une ligne par joueur  →  pseudo | points | code ami
+# Le code ami est facultatif : il sert à afficher le Mii du joueur (il doit être dans joueurs.txt).
+# L'ordre n'a pas d'importance : le site trie tout seul par points.
+
+zozu | 185 | 0650-2638-3962
+Yuri | 110 | 1675-0385-0223
+Marmon | 65 | 5368-7091-9017
+ξηdεrr | 50 | 1423-3571-4085
+embrez | 45 | 4337-9172-4802
+Rugodus | 15 | 5282-8105-1468
+☆ιέφ☆ | 10 | 5284-2414-5290
+MCSung | 10 | 1546-1897-6757
+Shizune | 10 | 0773-0954-1834

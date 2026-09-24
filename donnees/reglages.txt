@@ -1,0 +1,20 @@
+# RÉGLAGES DU SITE  →  nom: valeur   (une ligne par réglage)
+
+adresse_du_site: https://retrorewindfr.com
+lien_discord: https://discord.gg/VTcmmgVbuT
+
+# Phrase d'accueil sous le grand titre
+accroche: La communauté française de Retro Rewind : le classement des meilleurs pilotes FR, les tournois du week-end et toute l'aide pour installer le jeu.
+
+# Tournois habituels : jour heure, séparés par des virgules
+creneaux: samedi 21:30, dimanche 17:30
+titre_tournoi: Tournoi du soir
+format_tournoi: 150cc · 12 courses · FFA
+infos_tournoi: Toutes les infos (inscriptions, room, règles) sont annoncées sur le Discord avant le départ.
+
+# Onglet Discord
+texte_discord: C'est là que tout se passe : annonces des tournois, rooms entre joueurs FR, résultats et entraide pour l'installation.
+avantage_discord: Annonces et inscriptions pour les tournois du soir
+avantage_discord: Rooms Retro Rewind entre joueurs français
+avantage_discord: Aide pour installer Wheel Wizard et WiiCompiled
+avantage_discord: Résultats et mises à jour du classement

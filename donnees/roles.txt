@@ -1,0 +1,8 @@
+# RÔLES TDS : un rôle par ligne, du plus bas au plus haut  →  nom | points minimum
+
+Météore | 150
+Demi Lune | 300
+Triple Lune | 600
+Éclipse | 930
+Lune de Sang | 1350
+Lune Rewind | 1850
