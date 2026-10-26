@@ -4,12 +4,12 @@
    "lastSeen": "2026-10-25T15:51:07.842963Z",
    "month": -304,
    "name": "Nami⑫",
-   "rank": 1642,
+   "rank": 1650,
    "sus": false,
    "vr": 46671,
    "week": -230,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -180,19 +180,19 @@
       29
      ]
     ],
-    "vrank": 1523
+    "vrank": 1531
    }
   },
   "042949819707": {
    "lastSeen": "2026-08-23T20:59:25.919142Z",
    "month": 0,
    "name": "",
-   "rank": 4862,
+   "rank": 4878,
    "sus": false,
    "vr": 24653,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -230,19 +230,19 @@
       58
      ]
     ],
-    "vrank": 4330
+    "vrank": 4346
    }
   },
   "043553277950": {
-   "lastSeen": "2026-10-25T20:50:53.811477Z",
-   "month": 16488,
+   "lastSeen": "2026-10-26T20:01:14.874985Z",
+   "month": 16587,
    "name": "GLeCode",
-   "rank": 3811,
+   "rank": 3797,
    "sus": false,
-   "vr": 28860,
-   "week": 2406,
+   "vr": 28959,
+   "week": 2505,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Rosalina",
@@ -262,7 +262,7 @@
      359,
      13.9
     ],
-    "d24": 1734,
+    "d24": 99,
     "hist": [
      [
       "2026-09-12",
@@ -381,19 +381,19 @@
       168
      ]
     ],
-    "vrank": 3423
+    "vrank": 3413
    }
   },
   "065026383962": {
    "lastSeen": "2026-10-22T08:50:36.212373Z",
    "month": -2354,
    "name": "zozu",
-   "rank": 132526,
+   "rank": 132662,
    "sus": true,
    "vr": 92098,
    "week": -1057,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -572,27 +572,27 @@
       12
      ]
     ],
-    "vrank": 74627
+    "vrank": 74709
    }
   },
   "077309541834": {
-   "lastSeen": "2026-10-25T23:11:41.395668Z",
-   "month": 18099,
+   "lastSeen": "2026-10-26T18:14:37.027348Z",
+   "month": 19145,
    "name": "ЯQM☆Shizu",
-   "rank": 1889,
+   "rank": 1824,
    "sus": false,
-   "vr": 43192,
-   "week": 6147,
+   "vr": 44238,
+   "week": 6503,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
-      902
+      924
      ],
      [
       "Rosalina",
-      276
+      277
      ],
      [
       "Daisy",
@@ -601,10 +601,10 @@
     ],
     "combo": [
      "Funky Kong + Flame Runner",
-     891,
-     4.5
+     913,
+     4.4
     ],
-    "d24": 2225,
+    "d24": 2597,
     "hist": [
      [
       "2026-09-11",
@@ -761,47 +761,47 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "130506",
-    "races": 1482,
+    "races": 1508,
     "recent": [
      [
-      "2026-10-25T23:09",
-      "GBA Bowser Castle 2",
-      11,
-      12
+      "2026-10-26T18:06",
+      "DS Bowser Castle",
+      8,
+      9
      ],
      [
-      "2026-10-25T23:05",
-      "3DS Toad Circuit",
+      "2026-10-26T18:02",
+      "Wii Dry Dry Ruins",
+      7,
+      8
+     ],
+     [
+      "2026-10-26T17:58",
+      "GP Bananan Ruins",
+      7,
+      7
+     ],
+     [
+      "2026-10-26T17:55",
+      "SW2 Crown City",
       6,
-      12
+      7
      ],
      [
-      "2026-10-25T23:03",
-      "GBA Rainbow Road / GBA Rainbow Road DX",
-      10,
-      11
-     ],
-     [
-      "2026-10-25T22:59",
-      "3DS Wuhu Loop",
-      12,
-      12
-     ],
-     [
-      "2026-10-25T22:56",
-      "GCN Rainbow Road",
-      9,
-      12
+      "2026-10-26T17:52",
+      "SW2 Whistlestop Summit",
+      2,
+      6
      ]
     ],
     "tracks": [
      [
       "GBA Rainbow Road / GBA Rainbow Road DX",
-      48
+      49
      ],
      [
       "3DS DK Jungle",
-      45
+      47
      ],
      [
       "SW2 Ghost Valley",
@@ -812,7 +812,7 @@
     "vehs": [
      [
       "Flame Runner",
-      1218
+      1243
      ],
      [
       "Mach Bike",
@@ -823,19 +823,19 @@
       72
      ]
     ],
-    "vrank": 1750
+    "vrank": 1692
    }
   },
   "077309565431": {
    "lastSeen": "2026-08-23T15:11:16.45612Z",
    "month": 0,
    "name": "Seika",
-   "rank": 8264,
+   "rank": 8276,
    "sus": false,
    "vr": 17582,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -909,19 +909,19 @@
       6
      ]
     ],
-    "vrank": 7061
+    "vrank": 7073
    }
   },
   "081604556112": {
    "lastSeen": "2026-09-17T02:54:06.793195Z",
    "month": 0,
    "name": "Thalens",
-   "rank": 15241,
+   "rank": 15264,
    "sus": false,
    "vr": 11870,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Luigi",
@@ -1024,19 +1024,19 @@
       5
      ]
     ],
-    "vrank": 12496
+    "vrank": 12518
    }
   },
   "142335714085": {
    "lastSeen": "2026-10-26T03:33:12.519003Z",
    "month": 8640,
    "name": "ЯQΜ☆ξηdεrr",
-   "rank": 481,
+   "rank": 486,
    "sus": false,
    "vr": 84264,
    "week": 789,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -1259,19 +1259,19 @@
       56
      ]
     ],
-    "vrank": 456
+    "vrank": 461
    }
   },
   "154618976757": {
-   "lastSeen": "2026-10-26T04:47:18.016229Z",
-   "month": 39451,
+   "lastSeen": "2026-10-26T20:00:12.726585Z",
+   "month": 42132,
    "name": "ЯQΜ☆MCSung",
-   "rank": 136,
+   "rank": 118,
    "sus": false,
-   "vr": 109200,
-   "week": 26503,
+   "vr": 112455,
+   "week": 29692,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Dry Bowser",
@@ -1279,7 +1279,7 @@
      ],
      [
       "Funky Kong",
-      769
+      819
      ],
      [
       "Rosalina",
@@ -1291,7 +1291,7 @@
      1202,
      14.3
     ],
-    "d24": 10121,
+    "d24": 9963,
     "hist": [
      [
       "2026-09-11",
@@ -1452,47 +1452,47 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "154101",
-    "races": 2135,
+    "races": 2185,
     "recent": [
      [
-      "2026-10-26T04:48",
-      "3DS Piranha Plant Slide",
+      "2026-10-26T19:58",
+      "SNES Donut Plains 3",
+      7,
+      10
+     ],
+     [
+      "2026-10-26T19:48",
+      "3DS Rainbow Road",
       3,
-      6
+      11
      ],
      [
-      "2026-10-26T04:45",
-      "Wii Coconut Mall",
-      4,
-      10
-     ],
-     [
-      "2026-10-26T04:42",
-      "DS Luigi's Mansion",
+      "2026-10-26T19:37",
+      "Wii DK Summit / Tour DK Summit",
       5,
-      10
-     ],
-     [
-      "2026-10-26T04:38",
-      "SNES Mario Circuit 4",
-      5,
-      10
-     ],
-     [
-      "2026-10-26T04:35",
-      "N64 Royal Raceway / Wii U Royal Raceway",
-      1,
       9
+     ],
+     [
+      "2026-10-26T19:33",
+      "SW2 Faraway Oasis",
+      3,
+      10
+     ],
+     [
+      "2026-10-26T19:30",
+      "3DS Music Park",
+      3,
+      12
      ]
     ],
     "tracks": [
      [
       "SW2 Ghost Valley",
-      82
+      85
      ],
      [
       "Wii U Electrodrome",
-      68
+      69
      ],
      [
       "3DS Toad Circuit",
@@ -1503,7 +1503,7 @@
     "vehs": [
      [
       "Flame Runner",
-      2123
+      2173
      ],
      [
       "Mach Bike",
@@ -1514,19 +1514,19 @@
       3
      ]
     ],
-    "vrank": 131
+    "vrank": 113
    }
   },
   "167503850223": {
-   "lastSeen": "2026-10-26T14:22:56.960896Z",
-   "month": 16602,
+   "lastSeen": "2026-10-26T20:00:12.726585Z",
+   "month": 18883,
    "name": "γυrι",
-   "rank": 15,
+   "rank": 14,
    "sus": false,
-   "vr": 147883,
-   "week": 15170,
+   "vr": 150245,
+   "week": 17631,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -1534,7 +1534,7 @@
      ],
      [
       "Daisy",
-      1010
+      1060
      ],
      [
       "Rosalina",
@@ -1546,7 +1546,7 @@
      4780,
      23.8
     ],
-    "d24": 8560,
+    "d24": 9243,
     "hist": [
      [
       "2026-09-11",
@@ -1715,51 +1715,51 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "125679",
-    "races": 5997,
+    "races": 6047,
     "recent": [
      [
-      "2026-10-26T14:22",
-      "GBA Bowser Castle 4 / Tour Bowser Castle 4",
-      10,
-      12
-     ],
-     [
-      "2026-10-26T14:19",
-      "Tour Vancouver Velocity",
-      6,
-      11
-     ],
-     [
-      "2026-10-26T14:15",
-      "Wii U Bone-Dry Dunes",
-      10,
-      12
-     ],
-     [
-      "2026-10-26T14:12",
-      "GBA Shy Guy Beach",
+      "2026-10-26T20:01",
+      "GCN Bowser's Castle",
       3,
       12
      ],
      [
-      "2026-10-26T14:09",
-      "SW2 Bowser's Castle",
+      "2026-10-26T19:57",
+      "GCN DK Mountain",
+      2,
+      12
+     ],
+     [
+      "2026-10-26T19:43",
+      "3DS Toad Circuit",
+      1,
+      10
+     ],
+     [
+      "2026-10-26T19:41",
+      "Wii U Water Park",
       6,
       12
+     ],
+     [
+      "2026-10-26T19:37",
+      "Wii DK Summit / Tour DK Summit",
+      3,
+      9
      ]
     ],
     "tracks": [
      [
       "GBA Rainbow Road / GBA Rainbow Road DX",
-      171
-     ],
-     [
-      "SW2 Ghost Valley",
-      163
+      173
      ],
      [
       "GCN Dino Dino Jungle",
-      163
+      165
+     ],
+     [
+      "SW2 Ghost Valley",
+      164
      ]
     ],
     "veh": "bike",
@@ -1770,26 +1770,26 @@
      ],
      [
       "Mach Bike",
-      1055
+      1105
      ],
      [
       "Bullet Bike",
       29
      ]
     ],
-    "vrank": 15
+    "vrank": 14
    }
   },
   "206158617787": {
    "lastSeen": "2026-09-28T18:33:26.303117Z",
    "month": 2,
    "name": "New Mii",
-   "rank": 13268,
+   "rank": 13290,
    "sus": false,
    "vr": 13012,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -1904,19 +1904,19 @@
       161
      ]
     ],
-    "vrank": 10997
+    "vrank": 11018
    }
   },
   "382252268304": {
    "lastSeen": "2026-10-09T20:47:13.338333Z",
    "month": -3680,
    "name": "ЯQΜ☆ξηdεrr",
-   "rank": 7818,
+   "rank": 7827,
    "sus": false,
    "vr": 18282,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -2063,19 +2063,19 @@
       17
      ]
     ],
-    "vrank": 6715
+    "vrank": 6724
    }
   },
   "433791724802": {
    "lastSeen": "2026-10-26T00:57:38.004617Z",
    "month": 13676,
    "name": "★embrez★",
-   "rank": 16,
+   "rank": 17,
    "sus": false,
    "vr": 147196,
    "week": 12548,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -2258,19 +2258,19 @@
       5
      ]
     ],
-    "vrank": 16
+    "vrank": 17
    }
   },
   "446676783466": {
    "lastSeen": "2026-09-11T23:40:28.860429Z",
    "month": 0,
    "name": "Léogenius",
-   "rank": 50092,
+   "rank": 50148,
    "sus": false,
    "vr": 5659,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Yoshi",
@@ -2361,19 +2361,19 @@
       3
      ]
     ],
-    "vrank": 37235
+    "vrank": 37285
    }
   },
   "451574014959": {
    "lastSeen": "2026-10-17T15:10:20.126201Z",
    "month": -1304,
    "name": "Quentin ♪",
-   "rank": 106,
+   "rank": 109,
    "sus": false,
    "vr": 113871,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Daisy",
@@ -2504,19 +2504,19 @@
       1
      ]
     ],
-    "vrank": 102
+    "vrank": 105
    }
   },
   "459561649710": {
    "lastSeen": "2026-08-21T21:51:34.957095Z",
    "month": 0,
    "name": "Pazu",
-   "rank": 1702,
+   "rank": 1709,
    "sus": false,
    "vr": 45900,
    "week": 0,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -2602,19 +2602,19 @@
       54
      ]
     ],
-    "vrank": 1580
+    "vrank": 1587
    }
   },
   "515396217801": {
    "lastSeen": "2026-10-26T13:25:00.080951Z",
    "month": 7148,
    "name": "NAKS",
-   "rank": 6231,
+   "rank": 6244,
    "sus": false,
    "vr": 20989,
    "week": 5020,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -2825,19 +2825,19 @@
       4
      ]
     ],
-    "vrank": 5464
+    "vrank": 5477
    }
   },
   "528281051468": {
    "lastSeen": "2026-10-25T14:48:35.801285Z",
    "month": 2445,
    "name": "Rugodus",
-   "rank": 468,
+   "rank": 478,
    "sus": false,
    "vr": 84993,
    "week": 2354,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
@@ -3024,23 +3024,23 @@
       12
      ]
     ],
-    "vrank": 443
+    "vrank": 453
    }
   },
   "528424145290": {
-   "lastSeen": "2026-10-26T14:22:56.960896Z",
-   "month": 4935,
+   "lastSeen": "2026-10-26T17:07:44.670725Z",
+   "month": 6412,
    "name": "☆ιέφ☆",
-   "rank": 132593,
+   "rank": 132723,
    "sus": true,
-   "vr": 68649,
-   "week": 6272,
+   "vr": 69990,
+   "week": 7700,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Funky Kong",
-      5531
+      5546
      ],
      [
       "Toadette",
@@ -3053,10 +3053,10 @@
     ],
     "combo": [
      "Funky Kong + Flame Runner",
-     5530,
+     5545,
      7.6
     ],
-    "d24": 2945,
+    "d24": 4308,
     "hist": [
      [
       "2026-09-11",
@@ -3197,36 +3197,36 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "143167882",
-    "races": 5580,
+    "races": 5595,
     "recent": [
      [
-      "2026-10-26T14:18",
-      "Beta Waluigi Pinball / DS Waluigi Pinball",
+      "2026-10-26T17:07",
+      "RMX Vanilla Lake 2",
+      2,
+      2
+     ],
+     [
+      "2026-10-26T17:05",
+      "Wii Bowser's Castle",
+      1,
+      2
+     ],
+     [
+      "2026-10-26T16:46",
+      "DS Airship Fortress / SW2 Airship Fortress",
+      10,
+      11
+     ],
+     [
+      "2026-10-26T16:42",
+      "DS Yoshi Falls",
       5,
-      10
-     ],
-     [
-      "2026-10-26T14:13",
-      "N64 Koopa Troopa Beach",
-      7,
-      11
-     ],
-     [
-      "2026-10-26T14:10",
-      "Wii Luigi Circuit",
-      7,
-      11
-     ],
-     [
-      "2026-10-25T20:13",
-      "GCN Rainbow Road",
-      7,
       12
      ],
      [
-      "2026-10-25T20:10",
-      "3DS Toad Circuit",
-      3,
+      "2026-10-26T16:08",
+      "Wii U Mario Circuit",
+      7,
       11
      ]
     ],
@@ -3237,7 +3237,7 @@
      ],
      [
       "Wii U Cloudtop Cruise",
-      202
+      203
      ],
      [
       "3DS DK Jungle",
@@ -3248,7 +3248,7 @@
     "vehs": [
      [
       "Flame Runner",
-      5552
+      5567
      ],
      [
       "Bullet Bike",
@@ -3259,19 +3259,19 @@
       6
      ]
     ],
-    "vrank": 74678
+    "vrank": 74757
    }
   },
   "532576107246": {
-   "lastSeen": "2026-10-26T14:21:53.217261Z",
-   "month": 33660,
+   "lastSeen": "2026-10-26T20:00:12.726585Z",
+   "month": 36521,
    "name": "ЯQΜ☆Fey",
-   "rank": 190,
+   "rank": 169,
    "sus": false,
-   "vr": 103041,
-   "week": 19178,
+   "vr": 105902,
+   "week": 22024,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Daisy",
@@ -3279,7 +3279,7 @@
      ],
      [
       "Funky Kong",
-      721
+      759
      ],
      [
       "Luigi",
@@ -3288,10 +3288,10 @@
     ],
     "combo": [
      "Funky Kong + Flame Runner",
-     721,
-     15.7
+     759,
+     15.8
     ],
-    "d24": 4223,
+    "d24": 5114,
     "hist": [
      [
       "2026-09-11",
@@ -3440,43 +3440,43 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "162542",
-    "races": 2182,
+    "races": 2220,
     "recent": [
      [
-      "2026-10-26T14:18",
-      "Tour Athens Dash",
+      "2026-10-26T19:58",
+      "SNES Donut Plains 3",
       4,
+      10
+     ],
+     [
+      "2026-10-26T19:48",
+      "3DS Rainbow Road",
+      6,
+      11
+     ],
+     [
+      "2026-10-26T19:44",
+      "3DS Toad Circuit",
+      3,
+      10
+     ],
+     [
+      "2026-10-26T19:41",
+      "Wii U Water Park",
+      3,
       12
      ],
      [
-      "2026-10-26T14:10",
-      "Wii Luigi Circuit",
-      11,
-      11
-     ],
-     [
-      "2026-10-26T14:07",
-      "SNES Rainbow Road / SNES Rainbow Road U",
-      6,
-      11
-     ],
-     [
-      "2026-10-26T14:02",
-      "Wii U Electrodrome",
-      6,
-      9
-     ],
-     [
-      "2026-10-26T13:58",
-      "SNES Vanilla Lake 1",
-      6,
-      11
+      "2026-10-26T19:35",
+      "GCN Yoshi Circuit",
+      1,
+      10
      ]
     ],
     "tracks": [
      [
       "Wii U Electrodrome",
-      88
+      89
      ],
      [
       "GBA Rainbow Road / GBA Rainbow Road DX",
@@ -3484,7 +3484,7 @@
      ],
      [
       "SW2 Ghost Valley",
-      60
+      61
      ]
     ],
     "veh": "bike",
@@ -3495,30 +3495,30 @@
      ],
      [
       "Flame Runner",
-      809
+      847
      ],
      [
       "Bullet Bike",
       2
      ]
     ],
-    "vrank": 183
+    "vrank": 163
    }
   },
   "536870919017": {
-   "lastSeen": "2026-10-25T22:58:58.46639Z",
-   "month": 4663,
+   "lastSeen": "2026-10-26T18:14:37.027348Z",
+   "month": 6600,
    "name": "MRm○N ¿",
-   "rank": 82,
+   "rank": 75,
    "sus": false,
-   "vr": 119685,
-   "week": 4623,
+   "vr": 121622,
+   "week": 6560,
    "x": {
-    "at": "2026-10-26T14:22:39Z",
+    "at": "2026-10-26T20:01:00Z",
     "chars": [
      [
       "Yoshi",
-      1159
+      1174
      ],
      [
       "Dry Bowser",
@@ -3531,10 +3531,10 @@
     ],
     "combo": [
      "Yoshi + Mach Bike",
-     1159,
-     19.6
+     1174,
+     19.9
     ],
-    "d24": 4431,
+    "d24": 4697,
     "hist": [
      [
       "2026-09-11",
@@ -3599,37 +3599,37 @@
     ],
     "histAt": "2026-10-26T14:22:39Z",
     "pid": "7017",
-    "races": 1697,
+    "races": 1712,
     "recent": [
      [
-      "2026-10-25T22:59",
-      "3DS Wuhu Loop",
+      "2026-10-26T18:14",
+      "GBA Lakeside Park / Tour Lakeside Park",
       1,
-      12
+      11
      ],
      [
-      "2026-10-25T22:56",
-      "GCN Rainbow Road",
-      12,
-      12
+      "2026-10-26T18:10",
+      "Wii U Water Park",
+      2,
+      11
      ],
      [
-      "2026-10-25T22:53",
-      "GBA Bowser Castle 4 / Tour Bowser Castle 4",
-      5,
-      12
-     ],
-     [
-      "2026-10-25T22:49",
-      "SW2 Whistlestop Summit",
+      "2026-10-26T18:06",
+      "DS Bowser Castle",
       4,
-      12
+      9
      ],
      [
-      "2026-10-25T22:45",
-      "GBA Luigi Circuit / Tour Luigi Circuit",
-      8,
-      12
+      "2026-10-26T18:02",
+      "Wii Dry Dry Ruins",
+      1,
+      8
+     ],
+     [
+      "2026-10-26T17:58",
+      "GP Bananan Ruins",
+      3,
+      7
      ]
     ],
     "tracks": [
@@ -3643,14 +3643,14 @@
      ],
      [
       "SW2 Ghost Valley",
-      40
+      41
      ]
     ],
     "veh": "bike",
     "vehs": [
      [
       "Mach Bike",
-      1273
+      1288
      ],
      [
       "Flame Runner",
@@ -3661,9 +3661,9 @@
       41
      ]
     ],
-    "vrank": 81
+    "vrank": 75
    }
   }
  },
- "statsAt": "2026-10-26T14:22:39Z"
+ "statsAt": "2026-10-26T20:01:00Z"
 }
